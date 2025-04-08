@@ -1,16 +1,4 @@
 ## 👋 About Me
-
-Hi there! I'm **Venkata Praveen M**, a passionate **Full Stack Developer** currently pursuing my **MCA**. I'm a fresher with strong interest in building modern, responsive websites and web applications.
-
-- 🎯 Looking for opportunities to work as a Full Stack Developer
-- 💡 Exploring Cloud Computing, Cybersecurity, and new technologies
-- 💻 Skills: HTML, CSS, JavaScript, Python, MySQL, Java (Basics), React.js
-- 📁 Portfolio: [View My Portfolio](https://your-portfolio-link.netlify.app)
-- 📫 How to reach me: [venkatapraveen30@gmail.com] or [LinkedIn]([https://linkedin.com/in/yourprofil](https://www.linkedin.com/in/venkata-praveen-m-134ba3252/))
-
----
-
-
 # 💫 About Me:
 ## 👋 About Me<br><br>Hi there! I'm **Venkata Praveen M**, a passionate **Full Stack Developer** currently pursuing my **MCA**. I'm a fresher with strong interest in building modern, responsive websites and web applications.<br><br>- 🎯 Looking for opportunities to work as a Full Stack Developer<br>- 💡 Exploring Cloud Computing, Cybersecurity, and new technologies<br>- 💻 Skills: HTML, CSS, JavaScript, Python, MySQL, Java (Basics), React.js<br>- 📁 Portfolio: [View My Portfolio](https://your-portfolio-link.netlify.app)<br>- 📫 How to reach me: [venkatapraveen30@gmail.com] or [LinkedIn]([https://linkedin.com/in/yourprofil](https://www.linkedin.com/in/venkata-praveen-m-134ba3252/))<br><br>---<br><br><br>
 
